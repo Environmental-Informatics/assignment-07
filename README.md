@@ -1,6 +1,6 @@
 # Environmental Informatics
 
-## Assignment 07 - Simplifying Complex Tasks with Shell Scripts
+## Assignment 07 - Graphical Analysis with Python
 
 ### Lab Objectives
 
