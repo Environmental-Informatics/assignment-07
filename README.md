@@ -74,7 +74,7 @@ The following should be included in your GitHub repository:
 
 7. Put your input file, processing script and metadata file in the assignment repository and push to GitHub to submit.
 
-#### Grading Rubric
+#### Grading Rubric (50 pts Total)
 
 | Question | Description | Score |
 | -------- | ----------- | ----- |
